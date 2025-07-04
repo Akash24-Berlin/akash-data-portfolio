@@ -40,7 +40,7 @@ Coming soon! Stay tuned for interactive Tableau dashboards showcasing insights f
 
 📄 Resume
 
-[Download my resume] https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/Akash's%20Berlin-%20BA.docx
+[Download my resume](https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/Akash%20Brar%20Resume%20Berlin.pdf)
 
 ---
 
