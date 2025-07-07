@@ -24,7 +24,7 @@ Grocery Store Sales Analysis
 This SQL project analyzes grocery sales data from a relational database using 10 advanced, business-focused questions. It demonstrates complex joins, grouping, HAVING filters, and more.
 
 📄 [View the full SQL script here]
-https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/grocery_sales_analysis.sql
+https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/SQL_Projects/grocery_sales_analysis.sql
 
 
 📌 Machine Learning Project
