@@ -12,7 +12,8 @@ I’m a Data Analyst, Business Analyst, and Project Manager passionate about tur
 📂 Projects
 
 📌 Capstone Project: Dynamic Inventory System
-[Link Coming Soon]
+View the full report here 
+https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/Capstone_project/Akash_Capstone_Project_Inventory_Optimization.pdf.pdf
 
 Description: Designed and modeled an inventory management system for a small restaurant, including requirements gathering, process modeling, ER diagrams, database schema, and risk assessment.
 
