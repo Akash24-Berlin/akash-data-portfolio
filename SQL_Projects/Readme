@@ -33,5 +33,5 @@ The database consists of six tables:
 
 ## How to Use
 
-The SQL script [`grocery_sales_analysis.sql`](./grocery_sales_analysis.sql) contains all queries with explanations for each question, making it easy to follow the analysis step by step.
+The SQL script [`grocery_sales_analysis.sql` https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/SQL_Projects/grocery_sales_analysis.sql  contains all queries with explanations for each question, making it easy to follow the analysis step by step.
 
