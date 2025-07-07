@@ -19,9 +19,11 @@ Description: Designed and modeled an inventory management system for a small res
 ---
 
 📌 SQL Scripts & Analysis
-[Link Coming Soon]
+Grocery Store Sales Analysis
 
-Description: Collection of SQL queries demonstrating filtering, aggregation, joins, and advanced conditions.
+This SQL project analyzes grocery sales data from a relational database using 10 advanced, business-focused questions. It demonstrates complex joins, grouping, HAVING filters, and more.
+
+📄 [View the full SQL script here](./grocery_sales_analysis.sql)
 
 ---
 
