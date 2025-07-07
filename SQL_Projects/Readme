@@ -1,0 +1,37 @@
+# Grocery Sales SQL Analysis Project
+
+This project analyzes sales data from a grocery store database using SQL. It includes 10 business-focused questions designed to demonstrate advanced SQL skills, such as:
+
+✅ Complex joins across multiple tables  
+✅ Aggregations and grouping  
+✅ HAVING filters  
+✅ Window functions (where applicable)  
+✅ Use of `TOP`, `OFFSET FETCH`, and subqueries
+
+## Dataset Overview
+
+The database consists of six tables:
+- CUSTOMER: Customer details, including balances
+- DEPARTMENT: Store departments
+- EMPLOYEE: Employee details and their departments
+- ITEM: Items sold, categories, prices, and stock levels
+- ORDERS: Order dates, customers, and employees processing them
+- SALEITEM: Order line items, quantities sold, and sale prices
+
+## Key Insights Generated
+
+- Identified top-spending customers exceeding $500 in purchases  
+- Determined the best-selling item and category by total revenue  
+- Found the city generating the highest sales revenue  
+- Calculated average order value  
+- Listed employees with the highest order processing volumes  
+- Highlighted items selling more than 100 units  
+- Identified days with highest sales  
+- Ranked customers with largest outstanding balances  
+- Filtered customers based on purchase behavior using HAVING clause  
+- Used advanced sorting and limiting techniques (e.g., `TOP`, `OFFSET FETCH`)
+
+## How to Use
+
+The SQL script [`grocery_sales_analysis.sql`](./grocery_sales_analysis.sql) contains all queries with explanations for each question, making it easy to follow the analysis step by step.
+
