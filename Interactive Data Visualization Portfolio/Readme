@@ -1,1 +1,25 @@
-to create a folder
+# TTC Subway Delay Dashboard – 2025 Trends & Insights
+
+This dashboard was created using Tableau Public to explore subway delay trends across Toronto’s TTC system in 2025.
+
+📌 Objectives
+
+- Visualize delays by time of day, station, and subway line
+- Identify top delay causes and heavily impacted stations
+- Highlight trends across weekdays and months
+
+🔍 Key Features
+
+- Filters by Line, Station, and Delay Reason
+- Heatmap for hour-by-station delays
+- Area charts for time-of-day trends
+- Bubble and bar charts for comparisons
+
+🧠 Key Insights
+
+- Peak delays occur during morning and evening commutes
+- YU line has the highest average delay time
+- Most common delay reasons: Equipment & Passenger Incidents
+
+📸 See the full dashboard screenshot here 
+
