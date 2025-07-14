@@ -1,4 +1,4 @@
-# Grocery Sales SQL Analysis Project
+1.Grocery Sales SQL Analysis Project
 
 This project analyzes sales data from a grocery store database using SQL. It includes 10 business-focused questions designed to demonstrate advanced SQL skills, such as:
 
@@ -8,7 +8,7 @@ This project analyzes sales data from a grocery store database using SQL. It inc
 ✅ Window functions (where applicable)  
 ✅ Use of `TOP`, `OFFSET FETCH`, and subqueries
 
-## Dataset Overview
+Dataset Overview
 
 The database consists of six tables:
 - CUSTOMER: Customer details, including balances
@@ -18,7 +18,7 @@ The database consists of six tables:
 - ORDERS: Order dates, customers, and employees processing them
 - SALEITEM: Order line items, quantities sold, and sale prices
 
-## Key Insights Generated
+Key Insights Generated
 
 - Identified top-spending customers exceeding $500 in purchases  
 - Determined the best-selling item and category by total revenue  
@@ -30,8 +30,24 @@ The database consists of six tables:
 - Ranked customers with largest outstanding balances  
 - Filtered customers based on purchase behavior using HAVING clause  
 - Used advanced sorting and limiting techniques (e.g., `TOP`, `OFFSET FETCH`)
-
-## How to Use
+ How to Use
 
 The SQL script [`grocery_sales_analysis.sql` https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/SQL_Projects/grocery_sales_analysis.sql  contains all queries with explanations for each question, making it easy to follow the analysis step by step.
+
+2.📊 Bank Marketing Campaign Analysis — SQL Insights Project
+This SQL project analyzes customer behavior in a Portuguese bank’s direct marketing campaign. Using a dataset of over 40,000 clients, the project explores subscription patterns for term deposits by analyzing customer age, job type, marital status, education, financial history, contact methods, and previous campaign interactions.
+
+It answers 25 business-critical questions, including:
+
+Which professions and age groups convert best?
+
+Do longer calls result in more subscriptions?
+
+Which contact channel is more effective — telephone or cellular?
+
+How do housing or loan statuses influence behavior?
+
+Each query is written for clarity and business storytelling, with insights that can guide future campaign targeting and segmentation strategies.
+
+The SQL Script 
 
