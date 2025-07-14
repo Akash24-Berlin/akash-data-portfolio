@@ -35,9 +35,11 @@ Description: Applied supervised learning algorithms (SVM, k-NN, Decision Trees) 
 
 📊 Dashboards
 
-Coming soon! Stay tuned for interactive Tableau dashboards showcasing insights from complex datasets.
-
----
+🚇 TTC Subway Delay Dashboard – Tableau
+An interactive dashboard built in Tableau using real-world TTC subway delay data from 2025.
+Analyzes delay patterns by station, time of day, line, and reason — with filters and heatmaps for deeper exploration. 
+See full dashboard here: 
+https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/Interactive%20Data%20Visualization%20Portfolio/TTC%20Dashboard%20.png
 
 📄 Resume
 
