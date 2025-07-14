@@ -19,12 +19,18 @@ View the full report here
 https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/Capstone_project/Akash_Capstone_Project_Inventory_Optimization.pdf.pdf
 
 📌 SQL Scripts & Analysis
-Grocery Store Sales Analysis
+
+1. Grocery Store Sales Analysis
 
 This SQL project analyzes grocery sales data from a relational database using 10 advanced, business-focused questions. It demonstrates complex joins, grouping, HAVING filters, and more.
 
 📄 [View the full SQL script here]
 https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/SQL_Projects/grocery_sales_analysis.sql
+
+2. Bank Marketing Campaign Analysis — SQL Insights Project
+   This SQL project analyzes customer behavior in a Portuguese bank’s direct marketing campaign. Using a dataset of over 40,000 clients, the project explores subscription patterns for term deposits by analyzing customer age, job type, marital status, education, financial history, contact methods, and previous campaign interactions.
+   📄 [View the full SQL script here]
+   https://github.com/Akash24-Berlin/akash-data-portfolio/blob/main/SQL_Projects/BankMarketingInsights.sql
 
 
 📌 Machine Learning Project
